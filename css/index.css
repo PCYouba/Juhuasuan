@@ -1,0 +1,294 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: "微软雅黑";
+	
+}
+a{
+	color: gray;
+}
+a:active{
+	color: blue;
+}
+
+
+#top{
+	
+	width: 1362px;
+	height: 60px;
+	color: #808080;
+	background-color: #f5f5f5;
+	font-size: 10px;
+	text-underline-style: none;
+}
+#top h1{
+	padding: 0;
+	margin: 0;
+}
+#top h1 img{
+	width: 100%;
+	
+}
+#top ul{
+	background-color: #F5F5F5;
+	list-style-type: none;
+	padding-top: 5px;
+	padding-left: 80px;
+	position: absolute;
+	margin-top: -4px;
+	width: 1280px;
+	height: 25px;
+
+}
+#top ul li{
+	float: left;
+	margin-right: 35px;
+	
+}
+#main{
+	margin-top: 30px;
+	width: 1362px;
+	height: 1000px;
+	border: 1px solid white;
+}
+#top1{
+	margin-top: 5px;
+	width: auto;
+	height: 50px;
+	color: #808080;
+	
+	font-size: 16px;
+	/*text-decoration: underline  none;下划线*/ 
+	
+}
+#top1 ul{
+	
+	list-style-type: none;
+	padding-left: 50%;
+	position: absolute;
+	width: 100%;
+	height: 50px;
+}
+#top1 ul li{
+	float: left;
+	margin-right: 30px;
+}
+#redbag{
+	width: 152px;
+	height: 115px;
+	float: left;
+	background-color: black;
+	margin-left: 85px;
+}
+#left1{
+	width: 152px;
+	height: 381px;
+	background-color:#f7f0f1;
+	float: left;
+	margin-top: 60px;
+	margin-left: -152px;
+	color: #333333;
+	font-family: "微软雅黑";
+}
+#left1 ul{
+	list-style-type: none;
+	padding-left: 25px;
+	position: absolute;
+	width: 152px;
+	height: 381px;
+}
+#left1 ul li{
+	float: left;
+	margin-right: 40px;
+	margin-top: 10px;
+}
+/*.clear{
+	clear:both;
+}*/
+#bj1
+{
+	width: 1362px;
+	height: 431px;
+	background-color: #CCCCCC;
+	background-image: url(../img/bj.jpg);
+	/*float: left;*/
+	margin: 10px 0 0 0px;
+}
+#zhongjian{
+	width: 785px;
+	height: 305px;
+	background-color: black;
+	float: left;
+	margin: 15px 0 0px 5px;
+}
+#right1{
+	width: 250px;
+	height: 440px;
+	background-color: #CCCCCC;
+	float: left;
+	margin: 15px 0 0 5px;
+}
+#t1{
+	width: 784px;
+	height: 115px;
+	background-color: #CCCCCC;
+	float: left;
+	margin-left:242px ;
+	margin-top: -130px;
+}
+#Pinpaituan{
+	position: relative;
+	border: 1px solid white;
+	margin-top: 5px;
+	width: 1362px;
+	height: 480px;
+	float: left;
+}
+.daohang{
+	font-family: "微软雅黑";
+	font-size: 16px;
+	font-weight: normal;
+	/*margin-left: 10px;
+	margin-top: 50px;*/
+}
+.daohang ul{
+	border: 1px solid white;
+	list-style-type: none;
+	position: absolute;
+	width: 700px;
+	height: 30px;
+	margin-top: -25px;
+	margin-left: 410px;
+}
+.daohang ul li{
+	float: left;
+	margin-right: 10px;
+	
+}
+#pinpai{
+	font-size: 19px;
+	font-family: "微软雅黑";
+	font-weight: bold;
+}
+#pinpai img{
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.daohang1{
+	font-family: "微软雅黑";
+	font-size: 16px;
+	font-weight: normal;
+	
+}
+.daohang1 ul{
+	border: 1px solid white;
+	list-style-type: none;
+	position: absolute;
+	width: 900px;
+	height: 30px;
+	margin-top: -25px;
+	margin-left: 40px;
+}
+.daohang1 ul li{
+	float: left;
+	margin-right: 20px;
+	
+}
+#tom{
+	margin-left: 850px;
+    color: green;
+}
+#shidian{
+	color: red;
+	/*margin-top: 20px;*/
+}
+#shangxin{
+	font-size: 14px;
+}
+#shangxin ul{
+	list-style-type: none;
+	margin-left: 400px;
+	margin-top: -15px;
+}
+#shangxin ul li{
+	float: left;
+	margin-right: 10px;
+}
+
+input[type=text]{
+	height: 20px;
+	width: 200px;
+	
+}
+#first{
+	border: 1px solid white;
+	height: 35px;
+}
+#textfoot{
+	font-size: 18px;
+	margin-left: 200px;
+	margin-top: -50px;
+	text-underline-style: none;
+}
+#textfoot ul{
+	list-style-type: none;
+	
+	
+}
+#textfoot ul li{
+	float: left;
+	margin-right: 55px;
+}
+#textfoot2{
+	font-size: 14px;
+	margin-left: 200px;
+}
+#textfoot2 ul{
+	list-style-type: none;
+	
+}
+#textfoot2 ul li{
+	/*float: left;*/
+	margin-right: 80px;
+}
+#textfoot3{
+	font-size: 14px;
+	margin-left: 350px;
+	margin-top: -65px;
+}
+#textfoot3 ul{
+	list-style-type: none;
+	
+}
+#textfoot3 ul li{
+	/*float: left;*/
+	margin-right: 80px;
+}
+#textfoot4{
+	font-size: 14px;
+	margin-left: 480px;
+	margin-top: -65px;
+}
+#textfoot4 ul{
+	list-style-type: none;
+	
+}
+#textfoot4 ul li{
+	/*float: left;*/
+	margin-right: 80px;
+}
+#textfoot5{
+	font-size: 14px;
+	margin-left: 600px;
+	margin-top: -90px;
+}
+#textfoot5 ul{
+	list-style-type: none;
+	
+	
+}
+#textfoot5 ul li{
+	/*float: left;*/
+	margin-right: 80px;
+	
+}
